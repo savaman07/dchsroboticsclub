@@ -1,0 +1,2 @@
+[13-Feb-2017 00:33:10 CST6CDT] PHP Parse error:  syntax error, unexpected ':' in /home/dchsrobo/public_html/login.php on line 19
+[14-Feb-2017 22:16:32 CST6CDT] PHP Fatal error:  require_once(): Failed opening required '../include/configdb.php' (include_path='.:/usr/local/php70/pear') in /home/dchsrobo/public_html/index.php on line 3
